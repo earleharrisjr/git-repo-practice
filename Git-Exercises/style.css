@@ -1,3 +1,15 @@
+#hashtag {
+    color:blueviolet;
+}
+body {
+    text-align: center;
+    font-size: 108px;
+}
+.test{
+    color:navy;
+    font-size: 64px;
+}
+
 h1 {
     font-size: 48px;
     color: crimson;
@@ -5,4 +17,11 @@ h1 {
 p{
     color: white;
     font-size: 20px;
+}
+body {
+    background-color: pink;
+    text-align: right;
+}
+p.test#id {
+    
 }
